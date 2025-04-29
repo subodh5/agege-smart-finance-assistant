@@ -12,5 +12,5 @@ This project showcases the initial wireframe for the Agege Smart Finance Assista
 > This is a static UI preview intended for demonstration purposes.
 
 ## Live Demo
-[Click here to view the demo](https://your-username.github.io/agege-smart-finance-assistant/)
+[Click here to view the demo](https://subodh5.github.io/agege-smart-finance-assistant/)
 *(Link will work once GitHub Pages is published.)*
